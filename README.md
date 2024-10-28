@@ -10,7 +10,7 @@ ___
 ## Authors project
 * __TheBestikk__ ([Kirill github](https://github.com/TheBestikk))
     * __Telegram:__ https://t.me/TheBestiikkk
-    * __Gmail:__ zakharovkirill357@gmail.com
+    * __Gmail:__ zakharovkirill357@gmail.com (it is not recommended to write here)
 ### Languages and tools
 [![Figma](https://img.shields.io/badge/figma-o?style=for-the-badge&logo=Figma&logoColor=white)]()
 [![html](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white)]()
