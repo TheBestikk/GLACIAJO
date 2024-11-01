@@ -23,19 +23,18 @@ body{
 .bun{
     border-radius: 10px;
     width: 527px;
-    height: 348px;
     box-shadow: 0 0 17px 0 rgba(0, 0, 0, 0.25);
     padding: 30px 35px 53px 35px;
 }
 
-.bun-hover:hover{
+.bun:hover{
     background-color: #ff463a;
 
-    .bun-hover-title{
+    .address-title, .phone-title, .email-title{
         color: #fff;
     }
 
-    .bun-hover-text{
+    .address-address, .phone-link, .email-link{
         color: #fff;
     }
 
@@ -119,6 +118,7 @@ address{
 
 /* banner */
 
+
 .banner{
     background-color: #ffe4cc;
 }
@@ -167,6 +167,7 @@ address{
 
 /* popular */
 
+
 .popular{
     padding: 60px 0px;
 }
@@ -174,10 +175,16 @@ address{
 .popular-container{
     display: flex;
     align-items: center;
+}
+
+.popular-list{
+    display: flex;
+    align-items: center;
+    justify-content: center;
     gap: 20px;
 }
 
-.popular-right, .popular-left{
+.popular-item{
     display: flex;
     align-items: center;
     justify-items: center;
@@ -185,7 +192,6 @@ address{
     border-radius: 10px;
     gap: 117px;
     padding: 0px 70px 0px 140px;
-    width: 800px;
 }
 
 .popular-title{
@@ -210,6 +216,7 @@ address{
 
 
 /* flavor */
+
 
 .flavor{
     background-color: #ffe4cc;
@@ -254,11 +261,17 @@ address{
 
 /* contact */
 
+
 .contact{
     padding: 100px 0px;
 }
 
 .contact-container{
+    display: flex;
+    align-items: center;
+}
+
+.contact-list{
     display: flex;
     align-items: center;
     gap: 20px;
