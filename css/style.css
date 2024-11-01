@@ -69,6 +69,11 @@ address{
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.header-logo-link{
+    display: flex;
+    align-items: center;
     gap: 37px;
 }
 
@@ -88,9 +93,14 @@ address{
     gap: 65px;
 }
 
+.item-link{
+    max-width: 86px;
+}
+
 .item-link:hover{
     color: #ff993a;
     font-weight: 600;
+    transition-duration: .2s;
 }
 
 
@@ -134,6 +144,13 @@ address{
     font-weight: 700;
     font-family: "Nunito", sans-serif;
     border: none;
+    width: 167px;
+    height: 57px;
+}
+
+.banner-btn:hover{
+    font-weight: 900;
+    transition-duration: .2s;
 }
 
 
@@ -171,6 +188,16 @@ address{
 
 .popular-text{
     margin-bottom: 45px;
+}
+
+.popular-btn{
+    font-weight: 500;
+    width: 157px;
+    height: 53px;
+}
+
+.popular-btn:hover{
+    border: 2px solid #000;
 }
 
 
@@ -325,6 +352,11 @@ address{
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.footer-logo-link{
+    display: flex;
+    align-items: center;
     gap: 37px;
 }
 
