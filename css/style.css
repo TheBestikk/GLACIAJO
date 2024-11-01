@@ -17,6 +17,7 @@ body{
     border: 1px solid #000;
     border-radius: 5px;
     padding: 15px 30px;
+    text-transform: capitalize;
 }
 
 .bun{
@@ -141,6 +142,7 @@ address{
     color: #ff463a;
     width: 273px;
     margin-bottom: 45px;
+    text-transform: capitalize;
 }
 
 .banner-text{
@@ -155,8 +157,6 @@ address{
     font-weight: 700;
     font-family: "Nunito", sans-serif;
     border: none;
-    width: 167px;
-    height: 57px;
 }
 
 .banner-btn:hover{
@@ -202,8 +202,6 @@ address{
 
 .popular-btn{
     font-weight: 500;
-    width: 157px;
-    height: 53px;
 }
 
 .popular-btn:hover{
