@@ -8,7 +8,7 @@ body{
 
 .container{
     width: 1620px;
-    padding: 0px 150px;
+    margin: 0 auto;
 }
 
 .button{
@@ -61,7 +61,6 @@ address{
 .header-container{
     display: flex;
     align-items: center;
-    justify-content: center;
     gap: 188px;
 }
 
