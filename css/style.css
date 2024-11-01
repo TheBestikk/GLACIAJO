@@ -106,7 +106,7 @@ address{
 }
 
 .item-link{
-    max-width: 86px;
+    text-transform: capitalize;
 }
 
 .item-link:hover{
@@ -125,7 +125,7 @@ address{
 .banner-container{
     display: flex;
     align-items: center;
-    gap: 297px;
+    gap: 397px;
 }
 
 .banner-subtitle{
