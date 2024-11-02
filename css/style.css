@@ -339,7 +339,7 @@ address{
 .footer-container{
     display: flex;
     align-items: center;
-    gap: 1014px;
+    gap: 1000px;
 }
 
 .footer-logo-div {
@@ -364,8 +364,7 @@ address{
     color: #ff993a;
 }
 
-.footer-rights{
+.footer-rights {
     color: #fff;
     font-family: "Inter", sans-serif;
-    width: 420px;
 }
