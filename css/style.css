@@ -21,6 +21,7 @@ body{
 }
 
 .tab{
+    text-align: center;
     border-radius: 10px;
     width: 527px;
     box-shadow: 0 0 17px 0 rgba(0, 0, 0, 0.25);
@@ -278,10 +279,6 @@ address{
     gap: 20px;
 }
 
-.contact-email{
-    text-align: center;
-}
-
 .email-icon{
     margin-bottom: 40px;
 }
@@ -300,10 +297,6 @@ address{
     color: #000;
 }
 
-.contact-phone{
-    text-align: center;
-}
-
 .phone-icon{
     margin-bottom: 40px;
 }
@@ -320,10 +313,6 @@ address{
     font-size: 24px;
     text-align: center;
     color: #000;
-}
-
-.contact-address {
-    text-align: center;
 }
 
 .address-icon {
