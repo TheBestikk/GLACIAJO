@@ -279,10 +279,7 @@ address{
 }
 
 .contact-email{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
+    text-align: center;
 }
 
 .email-icon{
@@ -304,10 +301,7 @@ address{
 }
 
 .contact-phone{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
+    text-align: center;
 }
 
 .phone-icon{
@@ -329,10 +323,7 @@ address{
 }
 
 .contact-address {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
+    text-align: center;
 }
 
 .address-icon {
