@@ -193,7 +193,7 @@ address{
     background-color: #efefef;
     border-radius: 10px;
     gap: 117px;
-    padding: 0px 70px 0px 140px;
+    padding: 40px 140px 40px 70px;
 }
 
 .popular-title{
@@ -210,6 +210,7 @@ address{
 
 .popular-btn{
     font-weight: 500;
+    font-family: "Raleway", sans-serif;
 }
 
 .popular-btn:hover{
@@ -237,8 +238,6 @@ address{
     text-align: center;
     color: #ff463a;
     margin-bottom: 40px;
-    margin-left: 65px;
-    width: 661px;
 }
 
 .flavor-text{
@@ -339,7 +338,7 @@ address{
 .footer-container{
     display: flex;
     align-items: center;
-    gap: 1000px;
+    justify-content: space-between;
 }
 
 .footer-logo-div {
